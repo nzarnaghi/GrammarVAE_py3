@@ -1,0 +1,11 @@
+numpy
+scipy
+scikit-learn
+tensorflow
+h5py==2.10.0
+matplotlib
+pandas
+tables
+argparse
+progressbar
+nltk==3.5
